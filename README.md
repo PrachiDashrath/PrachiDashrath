@@ -3,7 +3,7 @@
      developing and being a better version of myself. 
 - 🌱 I’m currently pursuing Diploma in Computer science
 - 💞️ I’m looking to collaborate on Blogging. 
-- 📫 How to reach me - LinkedIn Account link - #letsconnect (https://www.linkedin.com/in/prachi-dashrath-b41287260/)
+- 📫 How to reach me - LinkedIn Account link - #letsconnect (https://www.linkedin.com/in/prachi-dashrath)
 
 <!---
 PrachiDashrath/PrachiDashrath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
