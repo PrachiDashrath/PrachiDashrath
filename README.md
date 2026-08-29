@@ -20,8 +20,8 @@ Exploring and building projects that combine **engineering, design, and AI**, wh
 
 ## Achievements
 
+- Winner — ICCRIP Hackathon, Pune
 - Winner — Machine Learning Hackathon
-- Finalist — ICCRIP Hackathon, Pune
 - West Zone Finalist — National Green Earth Challenge
 - 1st Position — CEERAS Ideathon
 
