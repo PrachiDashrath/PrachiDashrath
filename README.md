@@ -1,11 +1,35 @@
-- 👋 Hi, I’m @PrachiDashrath
-- 👀 I’m interested in Coding,No-code web development,Content writing, blogging,
-     developing and being a better version of myself. 
-- 🌱 I’m currently pursuing Diploma in Computer science
-- 💞️ I’m looking to collaborate on Blogging. 
-- 📫 How to reach me - LinkedIn Account link - #letsconnect (https://www.linkedin.com/in/prachi-dashrath)
+# Hi, I'm Prachi Dashrath
 
-<!---
-PrachiDashrath/PrachiDashrath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm interested in building at the intersection of **AI/ML, CAD, and engineering**.
+
+## Areas of Interest
+
+- AI/ML and Python
+- CAD and Product Design
+- FEA and Engineering Analysis
+- Technical Writing and Blogging
+- Software and Engineering Projects
+
+## Tools & Technologies
+
+`Python` `C++` `Creo` `SolidWorks` `ANSYS` `AI/ML`
+
+## Currently
+
+Exploring and building projects that combine **engineering, design, and AI**, while continuously learning and experimenting with new technologies.
+
+## Achievements
+
+- Winner — Machine Learning Hackathon
+- Finalist — ICCRIP Hackathon, Pune
+- West Zone Finalist — National Green Earth Challenge
+- 1st Position — CEERAS Ideathon
+
+## Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/prachi-dashrath)  
+[Medium](https://prachidashrath.medium.com)
+
+---
+
+**Build. Learn. Experiment. Repeat.**
